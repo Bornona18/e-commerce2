@@ -1,0 +1,28 @@
+.mycard {
+    padding-top: 90px;
+    height: 300px;
+    width: 300px;
+}
+
+.cardbutton {
+    height: 200px;
+    width: 200px;
+}
+
+.heading {
+    /* padding-top: 50px; */
+    float: right;
+    font-size: 30px;
+}
+
+.choice {
+    width: 350px;
+}
+
+.card-header {
+    background-color: rgba(255,255,255);
+}
+
+.card {
+    border: none;
+}

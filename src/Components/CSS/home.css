@@ -1,0 +1,23 @@
+.mybtn {
+    float: right;
+}
+
+.myrow {
+    padding-top: 130px;
+}
+
+.chckout {
+    width: 25%;
+    float: right;
+}
+
+.mydress1 {
+    width: 100px;
+    height: 150px;
+}
+
+th{
+    font-weight: bolder;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
